@@ -1,12 +1,7 @@
 # Functional-Logic-Programming
-Functional &amp; Logic Programming - (Lisp)
+Functional & Logic Programming - (Lisp)
+
   Bauman Moscow State Technical University (6th semester)
-
-
-# Math-Modeling
-
-Mathematic Modeling Course by Gradov.V.M
-  
 
 
 |List of Labs| Stage|
